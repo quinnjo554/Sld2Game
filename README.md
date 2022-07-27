@@ -1,2 +1,2 @@
-# Sld2Game
-Proto-type for a game that involves dropping bricks and moving a player
+# TErminal space invaders clone
+writen with only the standered library and uses files to track high scores
